@@ -3,4 +3,3 @@
 VLSI
 SOC
 Analog
-Computer Architecture
