@@ -1,7 +1,7 @@
 ## Installation guide of Open-Source EDA ASIC Design Flow
 (for **Ubuntu 20.04 LTS**)<br>
 
-<br><br>
+<br>
 
 Required tools:<br>
 - Yosys + ABC (synthesis)<br>
@@ -9,7 +9,7 @@ Required tools:<br>
 - Klayout (DRC + Extract)<br>
 - Netgen (LVS)<br>
 
-<br><br>
+<br>
 
 ======== Installation Guide ========<br>
 
