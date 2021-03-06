@@ -77,8 +77,8 @@ zlib1g-dev qt5-default qtmultimedia5-dev \
 qttools5-dev libqt5xmlpatterns5-dev libqt5svg5-dev \
 ruby ruby-dev
 ```
-Download: klayout ubuntu https://www.klayout.de/build.html<br>
-or <br>
+> <sub>Download: klayout ubuntu https://www.klayout.de/build.html<br>
+or <br></sub>
 ```
 $ wget https://www.klayout.org/downloads/Ubuntu-20/klayout_0.26.11-1_amd64.deb
 ```
