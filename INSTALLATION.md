@@ -4,7 +4,7 @@
 <br>
 
 Required tools:<br>
-- Yosys + ABC (synthesis)<br>
+- Yosys+ABC (synthesis)<br>
 - OpenROAD (APR)<br>
 - Klayout (DRC + Extract)<br>
 - Netgen (LVS)<br>
