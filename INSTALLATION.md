@@ -1,5 +1,6 @@
 ## Installation guide of Open-Source EDA ASIC Design Flow
-(for **Ubuntu 20.04 (LTS)**)<br>
+(for **Ubuntu 20.04 LTS**)<br>
+
 
 Required tools:<br>
 - Yosys + ABC (synthesis)<br>
