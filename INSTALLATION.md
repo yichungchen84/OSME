@@ -1,12 +1,5 @@
-## Introduction of the Open-Source EDA ASIC Design Flow
-
-Here is the guideline for environment setup<br>
-
-The following guidelines are for Ubuntu 20.04 LTS <br>
-
-The implementation of the system should following some simple instructions according to the guidelines.<br>
-
-OpenEDA Ubuntu 20.04 (LTS) Installation<br>
+## Installation guide of Open-Source EDA ASIC Design Flow
+(for **Ubuntu 20.04 (LTS)**)<br>
 
 Required tools:<br>
 - Yosys + ABC (synthesis)<br>
